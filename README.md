@@ -4,4 +4,4 @@
 
 Para ejecutar el sistema, debes poner:
 
-sitema de registro 2
+Sitema de Registro 2
