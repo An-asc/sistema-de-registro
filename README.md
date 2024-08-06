@@ -4,4 +4,6 @@
 
 Para ejecutar el sistema, debes poner:
 
-Sitema de Registro 2
+'''aps install react´´´
+
+Sistema de Registro 2
